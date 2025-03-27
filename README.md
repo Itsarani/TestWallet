@@ -34,3 +34,4 @@ create table if not exists public.users
     4  http://localhost:8080/users
     5  http://localhost:8080/wallet/verify { "amount":10050,    "user_id":1, "payment_method": "credit_card"}
     6  http://localhost:8080/wallet/confirm {"transaction_id": "abc123"}
+## -------------- #$
